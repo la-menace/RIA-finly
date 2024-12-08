@@ -1,4 +1,3 @@
-const uri = "mongodb+srv://lamenace4115:Emmanuel4115@cluster0.byxxd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 const express = require('express');
 const morgan = require('morgan');
